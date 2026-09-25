@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="244.8pt" viewBox="0 0 576 244.8" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{font-size:10px;font-family:sans-serif;text-anchor:middle}.s2{font-size:10px;font-family:sans-serif;text-anchor:end}.s3{fill:#08306b;stroke:#08306b;stroke-linejoin:miter}.s4{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s5{fill:#ffffff}.s6{fill:#f7fbff;stroke:#f7fbff;stroke-linejoin:miter}.s7{font-size:12px;font-family:sans-serif;text-anchor:middle}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 244.8 L 576 244.8 L 576 0 L 0 0 z" class="s5"/>
+<path d="M 38.6 203 L 279.4 203 L 279.4 26.2 L 38.6 26.2 z" class="s5"/>
+<path d="M 38.6 26.2 L 68.7 26.2 L 68.7 48.3 L 38.6 48.3 z" class="s3"/>
+<path d="M 98.8 48.3 L 128.9 48.3 L 128.9 70.4 L 98.8 70.4 z" class="s3"/>
+<path d="M 98.8 70.4 L 128.9 70.4 L 128.9 92.5 L 98.8 92.5 z" class="s6"/>
+<path d="M 128.9 70.4 L 159 70.4 L 159 92.5 L 128.9 92.5 z" class="s3"/>
+<path d="M 68.7 92.5 L 98.8 92.5 L 98.8 114.6 L 68.7 114.6 z" class="s3"/>
+<path d="M 159 114.6 L 189.1 114.6 L 189.1 136.7 L 159 136.7 z" class="s3"/>
+<path d="M 38.6 136.7 L 68.7 136.7 L 68.7 158.8 L 38.6 158.8 z" class="s3"/>
+<path d="M 159 136.7 L 189.1 136.7 L 189.1 158.8 L 159 158.8 z" class="s6"/>
+<path d="M 189.1 158.8 L 219.2 158.8 L 219.2 180.9 L 189.1 180.9 z" class="s3"/>
+<path d="M 159 180.9 L 189.1 180.9 L 189.1 203 L 159 203 z" class="s3"/>
+<defs>
+<path id="m9a01053109" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#m9a01053109" x="38.6" y="203" class="s0"/>
+<text x="38.6" y="217.6" class="s1">0</text>
+<use xlink:href="#m9a01053109" x="68.7" y="203" class="s0"/>
+<text x="68.7" y="217.6" class="s1">1</text>
+<use xlink:href="#m9a01053109" x="98.8" y="203" class="s0"/>
+<text x="98.8" y="217.6" class="s1">2</text>
+<use xlink:href="#m9a01053109" x="128.9" y="203" class="s0"/>
+<text x="128.9" y="217.6" class="s1">3</text>
+<use xlink:href="#m9a01053109" x="159" y="203" class="s0"/>
+<text x="159" y="217.6" class="s1">4</text>
+<use xlink:href="#m9a01053109" x="189.1" y="203" class="s0"/>
+<text x="189.1" y="217.6" class="s1">5</text>
+<use xlink:href="#m9a01053109" x="219.2" y="203" class="s0"/>
+<text x="219.2" y="217.6" class="s1">6</text>
+<use xlink:href="#m9a01053109" x="249.3" y="203" class="s0"/>
+<text x="249.3" y="217.6" class="s1">7</text>
+<use xlink:href="#m9a01053109" x="279.4" y="203" class="s0"/>
+<text x="279.4" y="217.6" class="s1">8</text>
+<text x="159" y="231.6" class="s1">top-1 expert</text>
+<defs>
+<path id="md99b343d67" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#md99b343d67" x="38.6" y="26.2" class="s0"/>
+<text x="31.6" y="30" class="s2">0</text>
+<use xlink:href="#md99b343d67" x="38.6" y="48.3" class="s0"/>
+<text x="31.6" y="52.1" class="s2">1</text>
+<use xlink:href="#md99b343d67" x="38.6" y="70.4" class="s0"/>
+<text x="31.6" y="74.2" class="s2">2</text>
+<use xlink:href="#md99b343d67" x="38.6" y="92.5" class="s0"/>
+<text x="31.6" y="96.3" class="s2">3</text>
+<use xlink:href="#md99b343d67" x="38.6" y="114.6" class="s0"/>
+<text x="31.6" y="118.4" class="s2">4</text>
+<use xlink:href="#md99b343d67" x="38.6" y="136.7" class="s0"/>
+<text x="31.6" y="140.5" class="s2">5</text>
+<use xlink:href="#md99b343d67" x="38.6" y="158.8" class="s0"/>
+<text x="31.6" y="162.6" class="s2">6</text>
+<use xlink:href="#md99b343d67" x="38.6" y="180.9" class="s0"/>
+<text x="31.6" y="184.7" class="s2">7</text>
+<use xlink:href="#md99b343d67" x="38.6" y="203" class="s0"/>
+<text x="31.6" y="206.8" class="s2">8</text>
+<text x="18.8" y="114.6" transform="rotate(-90 18.8 114.6)" class="s1">input cluster</text>
+<path d="M 38.6 203 L 38.6 26.2" class="s4"/>
+<path d="M 279.4 203 L 279.4 26.2" class="s4"/>
+<path d="M 38.6 203 L 279.4 203" class="s4"/>
+<path d="M 38.6 26.2 L 279.4 26.2" class="s4"/>
+<text x="159" y="20.2" class="s7">Routing (aux=0.0)</text>
+<path d="M 321.2 203 L 562 203 L 562 26.2 L 321.2 26.2 z" class="s5"/>
+<path d="M 321.2 26.2 L 351.3 26.2 L 351.3 48.3 L 321.2 48.3 z" class="s3"/>
+<path d="M 381.4 48.3 L 411.5 48.3 L 411.5 70.4 L 381.4 70.4 z" style="fill: #2171b5; stroke: #2171b5; stroke-linejoin: miter"/>
+<path d="M 531.9 48.3 L 562 48.3 L 562 70.4 L 531.9 70.4 z" style="fill: #c6dbef; stroke: #c6dbef; stroke-linejoin: miter"/>
+<path d="M 411.5 70.4 L 441.6 70.4 L 441.6 92.5 L 411.5 92.5 z" class="s3"/>
+<path d="M 351.3 92.5 L 381.4 92.5 L 381.4 114.6 L 351.3 114.6 z" class="s3"/>
+<path d="M 441.6 114.6 L 471.7 114.6 L 471.7 136.7 L 441.6 136.7 z" class="s3"/>
+<path d="M 321.2 136.7 L 351.3 136.7 L 351.3 158.8 L 321.2 158.8 z" class="s3"/>
+<path d="M 471.7 158.8 L 501.8 158.8 L 501.8 180.9 L 471.7 180.9 z" class="s3"/>
+<path d="M 441.6 180.9 L 471.7 180.9 L 471.7 203 L 441.6 203 z" class="s3"/>
+<use xlink:href="#m9a01053109" x="321.2" y="203" class="s0"/>
+<text x="321.2" y="217.6" class="s1">0</text>
+<use xlink:href="#m9a01053109" x="351.3" y="203" class="s0"/>
+<text x="351.3" y="217.6" class="s1">1</text>
+<use xlink:href="#m9a01053109" x="381.4" y="203" class="s0"/>
+<text x="381.4" y="217.6" class="s1">2</text>
+<use xlink:href="#m9a01053109" x="411.5" y="203" class="s0"/>
+<text x="411.5" y="217.6" class="s1">3</text>
+<use xlink:href="#m9a01053109" x="441.6" y="203" class="s0"/>
+<text x="441.6" y="217.6" class="s1">4</text>
+<use xlink:href="#m9a01053109" x="471.7" y="203" class="s0"/>
+<text x="471.7" y="217.6" class="s1">5</text>
+<use xlink:href="#m9a01053109" x="501.8" y="203" class="s0"/>
+<text x="501.8" y="217.6" class="s1">6</text>
+<use xlink:href="#m9a01053109" x="531.9" y="203" class="s0"/>
+<text x="531.9" y="217.6" class="s1">7</text>
+<use xlink:href="#m9a01053109" x="562" y="203" class="s0"/>
+<text x="562" y="217.6" class="s1">8</text>
+<text x="441.6" y="231.6" class="s1">top-1 expert</text>
+<use xlink:href="#md99b343d67" x="321.2" y="26.2" class="s0"/>
+<text x="314.2" y="30" class="s2">0</text>
+<use xlink:href="#md99b343d67" x="321.2" y="48.3" class="s0"/>
+<text x="314.2" y="52.1" class="s2">1</text>
+<use xlink:href="#md99b343d67" x="321.2" y="70.4" class="s0"/>
+<text x="314.2" y="74.2" class="s2">2</text>
+<use xlink:href="#md99b343d67" x="321.2" y="92.5" class="s0"/>
+<text x="314.2" y="96.3" class="s2">3</text>
+<use xlink:href="#md99b343d67" x="321.2" y="114.6" class="s0"/>
+<text x="314.2" y="118.4" class="s2">4</text>
+<use xlink:href="#md99b343d67" x="321.2" y="136.7" class="s0"/>
+<text x="314.2" y="140.5" class="s2">5</text>
+<use xlink:href="#md99b343d67" x="321.2" y="158.8" class="s0"/>
+<text x="314.2" y="162.6" class="s2">6</text>
+<use xlink:href="#md99b343d67" x="321.2" y="180.9" class="s0"/>
+<text x="314.2" y="184.7" class="s2">7</text>
+<use xlink:href="#md99b343d67" x="321.2" y="203" class="s0"/>
+<text x="314.2" y="206.8" class="s2">8</text>
+<text x="301.4" y="114.6" transform="rotate(-90 301.4 114.6)" class="s1">input cluster</text>
+<path d="M 321.2 203 L 321.2 26.2" class="s4"/>
+<path d="M 562 203 L 562 26.2" class="s4"/>
+<path d="M 321.2 203 L 562 203" class="s4"/>
+<path d="M 321.2 26.2 L 562 26.2" class="s4"/>
+<text x="441.6" y="20.2" class="s7">Routing (aux=0.1)</text>
+</svg>
