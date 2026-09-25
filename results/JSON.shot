@@ -1,0 +1,21 @@
+{
+  "project": "ai-learn-24-mixture-of-experts",
+  "seed": 42,
+  "config": {
+    "d": 16,
+    "n_clusters": 8,
+    "n_classes": 4,
+    "n_train": 4000,
+    "n_test": 2000,
+    "n_experts": 8,
+    "top_k": 2,
+    "expert_hidden": 16,
+    "epochs": 40,
+    "lr": 0.003,
+    "batch": 64,
+    "aux_coefs": [0.0, 0.01, 0.1, 1.0],
+    "dead_expert_threshold": 0.02
+  },
+  "moe_params": {"active_per_token": 816, "total": 2856},
+  "headline": {"dense_equal_active_acc": 0.7435, "dense_equal_active_params": 823, "dense_equal_total_acc": 0.7965, "dense_equal_total_params": 2860, "moe_active_params": 816, "moe_total_params": 2856, "moe_noaux_acc": 0.832, "moe_noaux_dead_experts": 1, "moe_noaux_min_util": 0.0013, "moe_noaux_load_cv": 0.4043, "moe_aux0.1_acc": 0.839, "moe_aux0.1_dead_experts": 0, "moe_aux0.1_min_util": 0.0948, "moe_aux0.1_load_cv": 0.1287, "moe_aux1.0_acc": 0.8355, "moe_aux1.0_load_cv": 0.0565, "moe_aux0.1_cluster_purity": 0.968}
+}
