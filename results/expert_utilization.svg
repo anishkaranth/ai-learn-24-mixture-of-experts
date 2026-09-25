@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="230.4pt" viewBox="0 0 432 230.4" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{font-size:10px;font-family:sans-serif;text-anchor:middle}.s2{fill:#e76f51}.s3{fill:#e9c46a}.s4{fill:#2a9d8f}.s5{fill:#126782}.s6{font-size:10px;font-family:sans-serif;text-anchor:end}.s7{font-size:7px;font-family:sans-serif;text-anchor:start}.s8{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s9{fill:#ffffff}.s10{fill:none;stroke-dasharray:3.7,1.6;stroke-dashoffset:0;stroke:#555555}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 230.4 L 432 230.4 L 432 0 L 0 0 z" class="s9"/>
+<path d="M 60.9 188.6 L 421.2 188.6 L 421.2 26.2 L 60.9 26.2 z" class="s9"/>
+<path d="M 77.3 188.6 L 85.7 188.6 L 85.7 60.5 L 77.3 60.5 z" class="s2"/>
+<path d="M 119.3 188.6 L 127.7 188.6 L 127.7 35 L 119.3 35 z" class="s2"/>
+<path d="M 161.3 188.6 L 169.7 188.6 L 169.7 69.6 L 161.3 69.6 z" class="s2"/>
+<path d="M 203.3 188.6 L 211.7 188.6 L 211.7 68.7 L 203.3 68.7 z" class="s2"/>
+<path d="M 245.3 188.6 L 253.7 188.6 L 253.7 41.2 L 245.3 41.2 z" class="s2"/>
+<path d="M 287.3 188.6 L 295.6 188.6 L 295.6 94.3 L 287.3 94.3 z" class="s2"/>
+<path d="M 329.2 188.6 L 337.6 188.6 L 337.6 187.4 L 329.2 187.4 z" class="s2"/>
+<path d="M 371.2 188.6 L 379.6 188.6 L 379.6 64 L 371.2 64 z" class="s2"/>
+<path d="M 85.7 188.6 L 94.1 188.6 L 94.1 65.2 L 85.7 65.2 z" class="s3"/>
+<path d="M 127.7 188.6 L 136.1 188.6 L 136.1 33.9 L 127.7 33.9 z" class="s3"/>
+<path d="M 169.7 188.6 L 178.1 188.6 L 178.1 72.7 L 169.7 72.7 z" class="s3"/>
+<path d="M 211.7 188.6 L 220.1 188.6 L 220.1 82 L 211.7 82 z" class="s3"/>
+<path d="M 253.7 188.6 L 262.1 188.6 L 262.1 39.8 L 253.7 39.8 z" class="s3"/>
+<path d="M 295.6 188.6 L 304 188.6 L 304 95.4 L 295.6 95.4 z" class="s3"/>
+<path d="M 337.6 188.6 L 346 188.6 L 346 145.5 L 337.6 145.5 z" class="s3"/>
+<path d="M 379.6 188.6 L 388 188.6 L 388 86.2 L 379.6 86.2 z" class="s3"/>
+<path d="M 94.1 188.6 L 102.5 188.6 L 102.5 60.5 L 94.1 60.5 z" class="s4"/>
+<path d="M 136.1 188.6 L 144.5 188.6 L 144.5 76.3 L 136.1 76.3 z" class="s4"/>
+<path d="M 178.1 188.6 L 186.5 188.6 L 186.5 91.4 L 178.1 91.4 z" class="s4"/>
+<path d="M 220.1 188.6 L 228.5 188.6 L 228.5 62.8 L 220.1 62.8 z" class="s4"/>
+<path d="M 262.1 188.6 L 270.5 188.6 L 270.5 66 L 262.1 66 z" class="s4"/>
+<path d="M 304 188.6 L 312.4 188.6 L 312.4 74 L 304 74 z" class="s4"/>
+<path d="M 346 188.6 L 354.4 188.6 L 354.4 85.3 L 346 85.3 z" class="s4"/>
+<path d="M 388 188.6 L 396.4 188.6 L 396.4 104.4 L 388 104.4 z" class="s4"/>
+<path d="M 102.5 188.6 L 110.9 188.6 L 110.9 70.7 L 102.5 70.7 z" class="s5"/>
+<path d="M 144.5 188.6 L 152.9 188.6 L 152.9 76.7 L 144.5 76.7 z" class="s5"/>
+<path d="M 186.5 188.6 L 194.9 188.6 L 194.9 79.4 L 186.5 79.4 z" class="s5"/>
+<path d="M 228.5 188.6 L 236.9 188.6 L 236.9 88.4 L 228.5 88.4 z" class="s5"/>
+<path d="M 270.5 188.6 L 278.9 188.6 L 278.9 82 L 270.5 82 z" class="s5"/>
+<path d="M 312.4 188.6 L 320.8 188.6 L 320.8 71.1 L 312.4 71.1 z" class="s5"/>
+<path d="M 354.4 188.6 L 362.8 188.6 L 362.8 69.8 L 354.4 69.8 z" class="s5"/>
+<path d="M 396.4 188.6 L 404.8 188.6 L 404.8 82.5 L 396.4 82.5 z" class="s5"/>
+<defs>
+<path id="m9a01053109" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#m9a01053109" x="94.1" y="188.6" class="s0"/>
+<text x="94.1" y="203.2" class="s1">0</text>
+<use xlink:href="#m9a01053109" x="136.1" y="188.6" class="s0"/>
+<text x="136.1" y="203.2" class="s1">1</text>
+<use xlink:href="#m9a01053109" x="178.1" y="188.6" class="s0"/>
+<text x="178.1" y="203.2" class="s1">2</text>
+<use xlink:href="#m9a01053109" x="220.1" y="188.6" class="s0"/>
+<text x="220.1" y="203.2" class="s1">3</text>
+<use xlink:href="#m9a01053109" x="262.1" y="188.6" class="s0"/>
+<text x="262.1" y="203.2" class="s1">4</text>
+<use xlink:href="#m9a01053109" x="304" y="188.6" class="s0"/>
+<text x="304" y="203.2" class="s1">5</text>
+<use xlink:href="#m9a01053109" x="346" y="188.6" class="s0"/>
+<text x="346" y="203.2" class="s1">6</text>
+<use xlink:href="#m9a01053109" x="388" y="188.6" class="s0"/>
+<text x="388" y="203.2" class="s1">7</text>
+<text x="241.1" y="217.2" class="s1">expert</text>
+<defs>
+<path id="md99b343d67" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#md99b343d67" x="60.9" y="188.6" class="s0"/>
+<text x="53.9" y="192.4" class="s6">0.000</text>
+<use xlink:href="#md99b343d67" x="60.9" y="166.4" class="s0"/>
+<text x="53.9" y="170.2" class="s6">0.025</text>
+<use xlink:href="#md99b343d67" x="60.9" y="144.2" class="s0"/>
+<text x="53.9" y="148" class="s6">0.050</text>
+<use xlink:href="#md99b343d67" x="60.9" y="122" class="s0"/>
+<text x="53.9" y="125.8" class="s6">0.075</text>
+<use xlink:href="#md99b343d67" x="60.9" y="99.8" class="s0"/>
+<text x="53.9" y="103.6" class="s6">0.100</text>
+<use xlink:href="#md99b343d67" x="60.9" y="77.6" class="s0"/>
+<text x="53.9" y="81.4" class="s6">0.125</text>
+<use xlink:href="#md99b343d67" x="60.9" y="55.4" class="s0"/>
+<text x="53.9" y="59.2" class="s6">0.150</text>
+<use xlink:href="#md99b343d67" x="60.9" y="33.2" class="s0"/>
+<text x="53.9" y="37" class="s6">0.175</text>
+<text x="18.9" y="107.4" transform="rotate(-90 18.9 107.4)" class="s1">share of routed slots</text>
+<path d="M 60.9 77.6 L 421.2 77.6" class="s10"/>
+<path d="M 60.9 188.6 L 60.9 26.2" class="s8"/>
+<path d="M 421.2 188.6 L 421.2 26.2" class="s8"/>
+<path d="M 60.9 188.6 L 421.2 188.6" class="s8"/>
+<path d="M 60.9 26.2 L 421.2 26.2" class="s8"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="241.1" y="20.2">Expert utilization (test set, top-2)</text>
+<path d="M 232.6 52.8 L 416.3 52.8 Q 417.7 52.8 417.7 51.4 L 417.7 31.1 Q 417.7 29.7 416.3 29.7 L 232.6 29.7 Q 231.2 29.7 231.2 31.1 L 231.2 51.4 Q 231.2 52.8 232.6 52.8 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 234 35.3 L 241 35.3 L 248 35.3" class="s10"/>
+<text x="253.6" y="37.8" class="s7">uniform</text>
+<path d="M 234 48.3 L 248 48.3 L 248 43.4 L 234 43.4 z" class="s2"/>
+<text x="253.6" y="48.3" class="s7">aux=0.0</text>
+<path d="M 297.5 37.8 L 311.5 37.8 L 311.5 32.9 L 297.5 32.9 z" class="s3"/>
+<text x="317.1" y="37.8" class="s7">aux=0.01</text>
+<path d="M 297.5 48.3 L 311.5 48.3 L 311.5 43.4 L 297.5 43.4 z" class="s4"/>
+<text x="317.1" y="48.3" class="s7">aux=0.1</text>
+<path d="M 365.4 37.8 L 379.4 37.8 L 379.4 32.9 L 365.4 32.9 z" class="s5"/>
+<text x="385" y="37.8" class="s7">aux=1.0</text>
+</svg>
